@@ -23,4 +23,6 @@
                   - RR - Left rotation on node's parent.
           - If the node's sibling is red then just recolor. Recolor the node and its sibling to black and if the parent is black and not root then color it red.
  
->
+>See the picture and write code
+    **Picture**
+    ![](https://github.com/balaprojects/images/blob/master/Red-Black-1.png)
