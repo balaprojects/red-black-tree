@@ -26,3 +26,9 @@
 >See the picture and write code
   
    ![](https://github.com/balaprojects/images/blob/master/Red-Black-1.png)
+
+>How to do deletion in Red-Black tree
+    - Convert to 0 or 1 child case.
+    - If the node to be deleted is red or child is red then replace.
+    - Double black node has 6 cases.
+      ![](https://github.com/balaprojects/images/blob/master/DoubleBlack_Cases.png)
